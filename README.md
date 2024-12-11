@@ -19,9 +19,3 @@ INSTRUCTIONS:
    - Press Q to quit the program
 5. After making a selection, the classifier will run, and the accuracy and confusion matrix will be displayed.
 6. Once the results are displayed, you will be prompted again to run another classifier or exit the program.
-
-If you encounter any issues or have questions, please refer to the contact information below.
-
-CONTACT INFORMATION:
-Ufuk Girginkaya
-ufuk.girginkaya@ug.bilkent.edu.tr
